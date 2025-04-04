@@ -69,6 +69,9 @@ Explore visual insights from the same dataset used in the model training process
 
 🔗 **[F1 Championship Insights 2015–2024 (Tableau Public)](https://public.tableau.com/app/profile/valeria.jimenez.paz/viz/Formula12015-2024/F1ChampionshipInsights20152024)**
 
+![F1 Dashboard Preview](https://github.com/user-attachments/assets/d4d5c8f0-0cce-49fa-b8e0-1f61ff4a06a7)
+
+
 This dashboard includes:
 - 🏁 Pit Stop Duration Analysis (by circuit, driver, and time of day)  
 - 🌍 Longest Race Countries  
