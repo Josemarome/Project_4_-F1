@@ -1,0 +1,301 @@
+Season,Round,Race,Date,Circuit,Locality,Country,Driver,Constructor,Grid,Position,Points,Status,Time,Fastest Lap Rank,Fastest Lap Time
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Lewis Hamilton,Mercedes,1,1,25,Finished,1:31:54.067,1.0,00:01:30.945000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Nico Rosberg,Mercedes,2,2,18,Finished,+1.360,2.0,00:01:31.092000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Sebastian Vettel,Ferrari,4,3,15,Finished,+34.523,4.0,00:01:31.457000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Felipe Massa,Williams,3,4,12,Finished,+38.196,6.0,00:01:31.719000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Felipe Nasr,Sauber,10,5,10,Finished,+1:35.149,9.0,00:01:32.612000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniel Ricciardo,Red Bull,6,6,8,+1 Lap,,10.0,00:01:32.797000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Nico Hülkenberg,Force India,13,7,6,+1 Lap,,8.0,00:01:31.970000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Marcus Ericsson,Sauber,15,8,4,+1 Lap,,5.0,00:01:31.560000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Carlos Sainz,Toro Rosso,7,9,2,+1 Lap,,11.0,00:01:32.872000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Sergio Pérez,Force India,14,10,1,+1 Lap,,7.0,00:01:31.959000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Jenson Button,McLaren,16,11,0,+2 Laps,,12.0,00:01:33.338000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Kimi Räikkönen,Ferrari,5,12,0,Wheel,,3.0,00:01:31.426000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Max Verstappen,Toro Rosso,11,13,0,Engine,,13.0,00:01:34.295000
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Romain Grosjean,Lotus F1,8,14,0,Power loss,,,
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Pastor Maldonado,Lotus F1,9,15,0,Accident,,,
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniil Kvyat,Red Bull,12,16,0,Withdrew,,,
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Kevin Magnussen,McLaren,17,17,0,Withdrew,,,
+2015,1,Australian Grand Prix,2015-03-15,Albert Park Grand Prix Circuit,Melbourne,Australia,Valtteri Bottas,Williams,0,18,0,Withdrew,,,
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Sebastian Vettel,Ferrari,2,1,25,Finished,1:41:05.793,3.0,00:01:43.648000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Lewis Hamilton,Mercedes,1,2,18,Finished,+8.569,2.0,00:01:43.125000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Nico Rosberg,Mercedes,3,3,15,Finished,+12.310,1.0,00:01:42.062000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Kimi Räikkönen,Ferrari,11,4,12,Finished,+53.822,7.0,00:01:44.124000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Valtteri Bottas,Williams,8,5,10,Finished,+1:10.409,6.0,00:01:44.088000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Felipe Massa,Williams,7,6,8,Finished,+1:13.586,5.0,00:01:43.990000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Max Verstappen,Toro Rosso,6,7,6,Finished,+1:37.762,9.0,00:01:44.579000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Carlos Sainz,Toro Rosso,15,8,4,+1 Lap,,15.0,00:01:45.507000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Daniil Kvyat,Red Bull,5,9,2,+1 Lap,,8.0,00:01:44.514000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Daniel Ricciardo,Red Bull,4,10,1,+1 Lap,,13.0,00:01:45.312000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Romain Grosjean,Lotus F1,10,11,0,+1 Lap,,10.0,00:01:44.812000
+2015,2,Malaysian Grand Prix,2015-03-29,Sepang International Circuit,Kuala Lumpur,Malaysia,Felipe Nasr,Sauber,16,12,0,+1 Lap,,4.0,00:01:43.902000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Nico Rosberg,Mercedes,2,1,25,Finished,1:48:15.565,3.0,00:01:30.557000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Lewis Hamilton,Mercedes,1,2,18,Finished,+8.060,4.0,00:01:30.646000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Sebastian Vettel,Ferrari,3,3,15,Finished,+9.643,2.0,00:01:29.951000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniel Ricciardo,Red Bull,8,4,12,Finished,+24.330,1.0,00:01:28.997000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Felipe Massa,Williams,6,5,10,Finished,+58.979,9.0,00:01:32.288000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Romain Grosjean,Haas F1 Team,19,6,8,Finished,+1:12.081,17.0,00:01:32.862000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Nico Hülkenberg,Force India,10,7,6,Finished,+1:14.199,16.0,00:01:32.833000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Valtteri Bottas,Williams,16,8,4,Finished,+1:15.153,14.0,00:01:32.725000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Carlos Sainz,Toro Rosso,7,9,2,Finished,+1:15.680,7.0,00:01:31.671000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Max Verstappen,Toro Rosso,5,10,1,Finished,+1:16.833,6.0,00:01:31.516000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Jolyon Palmer,Renault,13,11,0,Finished,+1:23.399,18.0,00:01:32.955000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Kevin Magnussen,Renault,14,12,0,Finished,+1:25.606,10.0,00:01:32.452000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Sergio Pérez,Force India,9,13,0,Finished,+1:31.699,15.0,00:01:32.780000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Jenson Button,McLaren,12,14,0,+1 Lap,,8.0,00:01:31.684000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Felipe Nasr,Sauber,17,15,0,+1 Lap,,13.0,00:01:32.711000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Pascal Wehrlein,Manor Marussia,21,16,0,+1 Lap,,12.0,00:01:32.673000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Marcus Ericsson,Sauber,15,17,0,Engine,,21.0,00:01:33.892000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Kimi Räikkönen,Ferrari,4,18,0,Engine,,5.0,00:01:30.701000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Rio Haryanto,Manor Marussia,22,19,0,Mechanical,,20.0,00:01:33.847000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Esteban Gutiérrez,Haas F1 Team,20,20,0,Collision,,19.0,00:01:32.998000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Fernando Alonso,McLaren,11,21,0,Collision,,11.0,00:01:32.553000
+2016,1,Australian Grand Prix,2016-03-20,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniil Kvyat,Red Bull,18,22,0,Retired,,,
+2016,2,Bahrain Grand Prix,2016-04-03,Bahrain International Circuit,Sakhir,Bahrain,Nico Rosberg,Mercedes,2,1,25,Finished,1:33:34.696,1.0,00:01:34.482000
+2016,2,Bahrain Grand Prix,2016-04-03,Bahrain International Circuit,Sakhir,Bahrain,Kimi Räikkönen,Ferrari,4,2,18,Finished,+10.282,3.0,00:01:35.158000
+2016,2,Bahrain Grand Prix,2016-04-03,Bahrain International Circuit,Sakhir,Bahrain,Lewis Hamilton,Mercedes,1,3,15,Finished,+30.148,2.0,00:01:34.677000
+2016,2,Bahrain Grand Prix,2016-04-03,Bahrain International Circuit,Sakhir,Bahrain,Daniel Ricciardo,Red Bull,5,4,12,Finished,+1:02.494,9.0,00:01:36.064000
+2016,2,Bahrain Grand Prix,2016-04-03,Bahrain International Circuit,Sakhir,Bahrain,Romain Grosjean,Haas F1 Team,9,5,10,Finished,+1:18.299,11.0,00:01:36.095000
+2016,2,Bahrain Grand Prix,2016-04-03,Bahrain International Circuit,Sakhir,Bahrain,Max Verstappen,Toro Rosso,10,6,8,Finished,+1:20.929,7.0,00:01:35.504000
+2016,2,Bahrain Grand Prix,2016-04-03,Bahrain International Circuit,Sakhir,Bahrain,Daniil Kvyat,Red Bull,15,7,6,+1 Lap,,8.0,00:01:35.678000
+2016,2,Bahrain Grand Prix,2016-04-03,Bahrain International Circuit,Sakhir,Bahrain,Felipe Massa,Williams,7,8,4,+1 Lap,,16.0,00:01:37.560000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Sebastian Vettel,Ferrari,2,1,25,Finished,1:24:11.672,3.0,00:01:26.638000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Lewis Hamilton,Mercedes,1,2,18,Finished,+9.975,6.0,00:01:27.033000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Valtteri Bottas,Mercedes,3,3,15,Finished,+11.250,2.0,00:01:26.593000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Kimi Räikkönen,Ferrari,4,4,12,Finished,+22.393,1.0,00:01:26.538000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Max Verstappen,Red Bull,5,5,10,Finished,+28.827,5.0,00:01:26.964000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Felipe Massa,Williams,7,6,8,Finished,+1:23.386,9.0,00:01:28.045000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Sergio Pérez,Force India,10,7,6,+1 Lap,,10.0,00:01:28.336000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Carlos Sainz,Toro Rosso,8,8,4,+1 Lap,,8.0,00:01:27.677000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniil Kvyat,Toro Rosso,9,9,2,+1 Lap,,4.0,00:01:26.711000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Esteban Ocon,Force India,13,10,1,+1 Lap,,11.0,00:01:28.475000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Nico Hülkenberg,Renault,11,11,0,+1 Lap,,12.0,00:01:28.486000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Antonio Giovinazzi,Sauber,16,12,0,+2 Laps,,13.0,00:01:29.052000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Stoffel Vandoorne,McLaren,18,13,0,+2 Laps,,15.0,00:01:29.440000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Fernando Alonso,McLaren,12,14,0,Vibrations,,17.0,00:01:30.077000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Kevin Magnussen,Haas F1 Team,17,15,0,Suspension,,7.0,00:01:27.568000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Lance Stroll,Williams,20,16,0,Brakes,,14.0,00:01:29.389000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniel Ricciardo,Red Bull,0,17,0,Power Unit,,16.0,00:01:29.447000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Marcus Ericsson,Sauber,14,18,0,Hydraulics,,19.0,00:01:32.052000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Jolyon Palmer,Renault,19,19,0,Brakes,,20.0,00:01:32.195000
+2017,1,Australian Grand Prix,2017-03-26,Albert Park Grand Prix Circuit,Melbourne,Australia,Romain Grosjean,Haas F1 Team,6,20,0,Water leak,,18.0,00:01:30.183000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Lewis Hamilton,Mercedes,1,1,25,Finished,1:37:36.158,1.0,00:01:35.378000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Sebastian Vettel,Ferrari,2,2,18,Finished,+6.250,2.0,00:01:35.423000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Max Verstappen,Red Bull,16,3,15,Finished,+45.192,7.0,00:01:36.722000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Daniel Ricciardo,Red Bull,5,4,12,Finished,+46.035,8.0,00:01:36.791000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Kimi Räikkönen,Ferrari,4,5,10,Finished,+48.076,4.0,00:01:36.003000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Valtteri Bottas,Mercedes,3,6,8,Finished,+48.808,3.0,00:01:35.849000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Carlos Sainz,Toro Rosso,11,7,6,Finished,+1:12.893,10.0,00:01:37.398000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Kevin Magnussen,Haas F1 Team,12,8,4,+1 Lap,,11.0,00:01:37.528000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Sergio Pérez,Force India,8,9,2,+1 Lap,,6.0,00:01:36.531000
+2017,2,Chinese Grand Prix,2017-04-09,Shanghai International Circuit,Shanghai,China,Esteban Ocon,Force India,17,10,1,+1 Lap,,9.0,00:01:37.036000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Sebastian Vettel,Ferrari,3,1,25,Finished,1:29:33.283,4.0,00:01:26.469000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Lewis Hamilton,Mercedes,1,2,18,Finished,+5.036,3.0,00:01:26.444000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Kimi Räikkönen,Ferrari,2,3,15,Finished,+6.309,2.0,00:01:26.373000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniel Ricciardo,Red Bull,8,4,12,Finished,+7.069,1.0,00:01:25.945000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Fernando Alonso,McLaren,10,5,10,Finished,+27.886,7.0,00:01:26.978000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Max Verstappen,Red Bull,4,6,8,Finished,+28.945,5.0,00:01:26.880000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Nico Hülkenberg,Renault,7,7,6,Finished,+32.671,9.0,00:01:27.081000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Valtteri Bottas,Mercedes,15,8,4,Finished,+34.339,8.0,00:01:27.019000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Stoffel Vandoorne,McLaren,11,9,2,Finished,+34.921,6.0,00:01:26.958000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Carlos Sainz,Renault,9,10,1,Finished,+45.722,12.0,00:01:27.944000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Sergio Pérez,Force India,12,11,0,Finished,+46.817,11.0,00:01:27.633000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Esteban Ocon,Force India,14,12,0,Finished,+1:00.278,10.0,00:01:27.600000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Charles Leclerc,Sauber,18,13,0,Finished,+1:15.759,15.0,00:01:28.759000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Lance Stroll,Williams,13,14,0,Finished,+1:18.288,14.0,00:01:28.511000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Brendon Hartley,Toro Rosso,16,15,0,+1 Lap,,13.0,00:01:28.176000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Romain Grosjean,Haas F1 Team,6,16,0,Wheel,,16.0,00:01:28.805000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Kevin Magnussen,Haas F1 Team,5,17,0,Wheel,,17.0,00:01:29.534000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Pierre Gasly,Toro Rosso,20,18,0,Engine,,18.0,00:01:30.649000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Marcus Ericsson,Sauber,17,19,0,Steering,,19.0,00:01:32.210000
+2018,1,Australian Grand Prix,2018-03-25,Albert Park Grand Prix Circuit,Melbourne,Australia,Sergey Sirotkin,Williams,19,20,0,Brakes,,20.0,00:01:32.573000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Sebastian Vettel,Ferrari,1,1,25,Finished,1:32:01.940,7.0,00:01:34.453000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Valtteri Bottas,Mercedes,3,2,18,Finished,+0.699,1.0,00:01:33.740000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Lewis Hamilton,Mercedes,9,3,15,Finished,+6.512,2.0,00:01:33.953000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Pierre Gasly,Toro Rosso,5,4,12,Finished,+1:02.234,11.0,00:01:34.863000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Kevin Magnussen,Haas F1 Team,6,5,10,Finished,+1:15.046,5.0,00:01:34.327000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Nico Hülkenberg,Renault,7,6,8,Finished,+1:39.024,9.0,00:01:34.667000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Fernando Alonso,McLaren,13,7,6,+1 Lap,,4.0,00:01:34.168000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Stoffel Vandoorne,McLaren,14,8,4,+1 Lap,,16.0,00:01:35.131000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Marcus Ericsson,Sauber,17,9,2,+1 Lap,,15.0,00:01:35.093000
+2018,2,Bahrain Grand Prix,2018-04-08,Bahrain International Circuit,Sakhir,Bahrain,Esteban Ocon,Force India,8,10,1,+1 Lap,,12.0,00:01:35.043000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Valtteri Bottas,Mercedes,2,1,26,Finished,1:25:27.325,1.0,00:01:25.580000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Lewis Hamilton,Mercedes,1,2,18,Finished,+20.886,2.0,00:01:26.057000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Max Verstappen,Red Bull,4,3,15,Finished,+22.520,3.0,00:01:26.256000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Sebastian Vettel,Ferrari,3,4,12,Finished,+57.109,8.0,00:01:27.954000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Charles Leclerc,Ferrari,5,5,10,Finished,+58.203,4.0,00:01:26.926000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Kevin Magnussen,Haas F1 Team,7,6,8,Finished,+1:27.156,9.0,00:01:28.182000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Nico Hülkenberg,Renault,11,7,6,+1 Lap,,12.0,00:01:28.444000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Kimi Räikkönen,Alfa Romeo,9,8,4,+1 Lap,,11.0,00:01:28.270000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Lance Stroll,Racing Point,16,9,2,+1 Lap,,7.0,00:01:27.568000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniil Kvyat,Toro Rosso,15,10,1,+1 Lap,,6.0,00:01:27.448000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Pierre Gasly,Red Bull,17,11,0,+1 Lap,,5.0,00:01:27.229000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Lando Norris,McLaren,8,12,0,+1 Lap,,16.0,00:01:28.555000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Sergio Pérez,Racing Point,10,13,0,+1 Lap,,15.0,00:01:28.485000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Alexander Albon,Toro Rosso,13,14,0,+1 Lap,,10.0,00:01:28.188000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Antonio Giovinazzi,Alfa Romeo,14,15,0,+1 Lap,,14.0,00:01:28.479000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,George Russell,Williams,19,16,0,+2 Laps,,17.0,00:01:28.713000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Robert Kubica,Williams,20,17,0,+3 Laps,,18.0,00:01:29.284000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Romain Grosjean,Haas F1 Team,6,18,0,Wheel,,13.0,00:01:28.462000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Daniel Ricciardo,Renault,12,19,0,Damage,,19.0,00:01:29.848000
+2019,1,Australian Grand Prix,2019-03-17,Albert Park Grand Prix Circuit,Melbourne,Australia,Carlos Sainz,McLaren,18,20,0,Engine,,20.0,00:01:30.899000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Lewis Hamilton,Mercedes,3,1,25,Finished,1:34:21.295,2.0,00:01:33.528000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Valtteri Bottas,Mercedes,4,2,18,Finished,+2.980,3.0,00:01:34.209000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Charles Leclerc,Ferrari,1,3,16,Finished,+6.131,1.0,00:01:33.411000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Max Verstappen,Red Bull,5,4,12,Finished,+6.408,9.0,00:01:35.311000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Sebastian Vettel,Ferrari,2,5,10,Finished,+36.068,4.0,00:01:34.895000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Lando Norris,McLaren,9,6,8,Finished,+45.754,12.0,00:01:35.777000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Kimi Räikkönen,Alfa Romeo,8,7,6,Finished,+47.470,11.0,00:01:35.589000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Pierre Gasly,Red Bull,13,8,4,Finished,+58.094,8.0,00:01:35.291000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Alexander Albon,Toro Rosso,12,9,2,Finished,+1:02.697,16.0,00:01:36.752000
+2019,2,Bahrain Grand Prix,2019-03-31,Bahrain International Circuit,Sakhir,Bahrain,Sergio Pérez,Racing Point,14,10,1,Finished,+1:03.696,14.0,00:01:36.330000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Valtteri Bottas,Mercedes,1,1,25,Finished,1:30:55.739,2.0,00:01:07.657000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Charles Leclerc,Ferrari,7,2,18,Finished,+2.700,4.0,00:01:07.901000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Lando Norris,McLaren,3,3,16,Finished,+5.491,1.0,00:01:07.475000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Lewis Hamilton,Mercedes,5,4,12,Finished,+5.689,3.0,00:01:07.712000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Carlos Sainz,McLaren,8,5,10,Finished,+8.903,5.0,00:01:07.974000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Sergio Pérez,Racing Point,6,6,8,Finished,+15.092,6.0,00:01:08.305000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Pierre Gasly,AlphaTauri,12,7,6,Finished,+16.682,11.0,00:01:09.025000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Esteban Ocon,Renault,14,8,4,Finished,+17.456,10.0,00:01:08.932000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Antonio Giovinazzi,Alfa Romeo,18,9,2,Finished,+21.146,9.0,00:01:08.796000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Sebastian Vettel,Ferrari,11,10,1,Finished,+24.545,8.0,00:01:08.623000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Nicholas Latifi,Williams,20,11,0,Finished,+31.650,16.0,00:01:09.662000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Daniil Kvyat,AlphaTauri,13,12,0,Suspension,,13.0,00:01:09.135000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Alexander Albon,Red Bull,4,13,0,Electronics,,7.0,00:01:08.432000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Kimi Räikkönen,Alfa Romeo,19,14,0,Wheel,,12.0,00:01:09.031000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,George Russell,Williams,17,15,0,Fuel pressure,,14.0,00:01:09.317000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Romain Grosjean,Haas F1 Team,15,16,0,Brakes,,17.0,00:01:10.228000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Kevin Magnussen,Haas F1 Team,16,17,0,Brakes,,20.0,00:01:10.720000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Lance Stroll,Racing Point,9,18,0,Engine,,18.0,00:01:10.326000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Daniel Ricciardo,Renault,10,19,0,Overheating,,19.0,00:01:10.610000
+2020,1,Austrian Grand Prix,2020-07-05,Red Bull Ring,Spielberg,Austria,Max Verstappen,Red Bull,2,20,0,Electronics,,15.0,00:01:09.351000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Lewis Hamilton,Mercedes,1,1,25,Finished,1:22:50.683,3.0,00:01:06.719000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Valtteri Bottas,Mercedes,4,2,18,Finished,+13.719,7.0,00:01:07.534000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Max Verstappen,Red Bull,2,3,15,Finished,+33.698,2.0,00:01:06.145000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Alexander Albon,Red Bull,6,4,12,Finished,+44.400,6.0,00:01:07.299000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Lando Norris,McLaren,9,5,10,Finished,+1:01.470,5.0,00:01:07.193000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Sergio Pérez,Racing Point,17,6,8,Finished,+1:02.387,4.0,00:01:07.188000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Lance Stroll,Racing Point,12,7,6,Finished,+1:02.453,10.0,00:01:07.833000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Daniel Ricciardo,Renault,8,8,4,Finished,+1:02.591,9.0,00:01:07.832000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Carlos Sainz,McLaren,3,9,3,+1 Lap,,1.0,00:01:05.619000
+2020,2,Styrian Grand Prix,2020-07-12,Red Bull Ring,Spielberg,Austria,Daniil Kvyat,AlphaTauri,13,10,1,+1 Lap,,13.0,00:01:08.378000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Lewis Hamilton,Mercedes,2,1,25,Finished,1:32:03.897,4.0,00:01:34.015000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Max Verstappen,Red Bull,1,2,18,Finished,+0.745,2.0,00:01:33.228000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Valtteri Bottas,Mercedes,3,3,16,Finished,+37.383,1.0,00:01:32.090000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Lando Norris,McLaren,7,4,12,Finished,+46.466,6.0,00:01:34.396000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Sergio Pérez,Red Bull,0,5,10,Finished,+52.047,3.0,00:01:33.970000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Charles Leclerc,Ferrari,4,6,8,Finished,+59.090,11.0,00:01:34.988000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Daniel Ricciardo,McLaren,6,7,6,Finished,+1:06.004,10.0,00:01:34.932000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Carlos Sainz,Ferrari,8,8,4,Finished,+1:07.100,7.0,00:01:34.509000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Yuki Tsunoda,AlphaTauri,13,9,2,Finished,+1:25.692,8.0,00:01:34.761000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Lance Stroll,Aston Martin,10,10,1,Finished,+1:26.713,9.0,00:01:34.865000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Kimi Räikkönen,Alfa Romeo,14,11,0,Finished,+1:28.864,14.0,00:01:35.192000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Antonio Giovinazzi,Alfa Romeo,12,12,0,+1 Lap,,13.0,00:01:35.122000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Esteban Ocon,Alpine F1 Team,16,13,0,+1 Lap,,15.0,00:01:35.250000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,George Russell,Williams,15,14,0,+1 Lap,,12.0,00:01:35.036000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Sebastian Vettel,Aston Martin,20,15,0,+1 Lap,,16.0,00:01:35.566000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Mick Schumacher,Haas F1 Team,18,16,0,+1 Lap,,18.0,00:01:36.134000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Pierre Gasly,AlphaTauri,5,17,0,Retired,,5.0,00:01:34.090000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Nicholas Latifi,Williams,17,18,0,Retired,,19.0,00:01:36.602000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Fernando Alonso,Alpine F1 Team,9,19,0,Brakes,,17.0,00:01:36.063000
+2021,1,Bahrain Grand Prix,2021-03-28,Bahrain International Circuit,Sakhir,Bahrain,Nikita Mazepin,Haas F1 Team,19,20,0,Accident,,,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Max Verstappen,Red Bull,3,1,25,Finished,2:02:34.598,2.0,00:01:17.524000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Lewis Hamilton,Mercedes,1,2,19,Finished,+22.000,1.0,00:01:16.702000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Lando Norris,McLaren,7,3,15,Finished,+23.702,3.0,00:01:18.259000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Charles Leclerc,Ferrari,4,4,12,Finished,+25.579,6.0,00:01:18.379000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Carlos Sainz,Ferrari,11,5,10,Finished,+27.036,7.0,00:01:18.490000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Daniel Ricciardo,McLaren,6,6,8,Finished,+51.220,12.0,00:01:19.341000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Pierre Gasly,AlphaTauri,5,7,6,Finished,+52.818,9.0,00:01:18.994000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Lance Stroll,Aston Martin,10,8,4,Finished,+56.909,8.0,00:01:18.782000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Esteban Ocon,Alpine F1 Team,9,9,2,Finished,+1:05.704,15.0,00:01:19.422000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,Autodromo Enzo e Dino Ferrari,Imola,Italy,Fernando Alonso,Alpine F1 Team,15,10,1,Finished,+1:06.561,14.0,00:01:19.417000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Charles Leclerc,Ferrari,1,1,26,Finished,1:37:33.584,1.0,00:01:34.570000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Carlos Sainz,Ferrari,3,2,18,Finished,+5.598,3.0,00:01:35.740000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Lewis Hamilton,Mercedes,5,3,15,Finished,+9.675,5.0,00:01:36.228000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,George Russell,Mercedes,9,4,12,Finished,+11.211,6.0,00:01:36.302000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Kevin Magnussen,Haas F1 Team,7,5,10,Finished,+14.754,8.0,00:01:36.623000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Valtteri Bottas,Alfa Romeo,6,6,8,Finished,+16.119,7.0,00:01:36.599000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Esteban Ocon,Alpine F1 Team,11,7,6,Finished,+19.423,14.0,00:01:37.110000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Yuki Tsunoda,AlphaTauri,16,8,4,Finished,+20.386,13.0,00:01:37.104000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Fernando Alonso,Alpine F1 Team,8,9,2,Finished,+22.390,10.0,00:01:36.733000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Guanyu Zhou,Alfa Romeo,15,10,1,Finished,+23.064,9.0,00:01:36.685000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Mick Schumacher,Haas F1 Team,12,11,0,Finished,+32.574,11.0,00:01:36.956000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Lance Stroll,Aston Martin,19,12,0,Finished,+45.873,15.0,00:01:37.146000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Alexander Albon,Williams,14,13,0,Finished,+53.932,18.0,00:01:37.355000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Daniel Ricciardo,McLaren,18,14,0,Finished,+54.975,16.0,00:01:37.261000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Lando Norris,McLaren,13,15,0,Finished,+56.335,12.0,00:01:36.988000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Nicholas Latifi,Williams,20,16,0,Finished,+1:01.795,20.0,00:01:38.251000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Nico Hülkenberg,Aston Martin,17,17,0,Finished,+1:03.829,19.0,00:01:38.201000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Sergio Pérez,Red Bull,4,18,0,Fuel pressure,,4.0,00:01:36.089000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Max Verstappen,Red Bull,2,19,0,Fuel pressure,,2.0,00:01:35.440000
+2022,1,Bahrain Grand Prix,2022-03-20,Bahrain International Circuit,Sakhir,Bahrain,Pierre Gasly,AlphaTauri,10,20,0,Power Unit,,17.0,00:01:37.324000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Max Verstappen,Red Bull,4,1,25,Finished,1:24:19.293,2.0,00:01:31.772000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Charles Leclerc,Ferrari,2,2,19,Finished,+0.549,1.0,00:01:31.634000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Carlos Sainz,Ferrari,3,3,15,Finished,+8.097,3.0,00:01:31.905000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Sergio Pérez,Red Bull,1,4,12,Finished,+10.800,4.0,00:01:32.042000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,George Russell,Mercedes,6,5,10,Finished,+32.732,7.0,00:01:32.821000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Esteban Ocon,Alpine F1 Team,5,6,8,Finished,+56.017,9.0,00:01:33.103000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Lando Norris,McLaren,11,7,6,Finished,+56.124,5.0,00:01:32.753000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Pierre Gasly,AlphaTauri,9,8,4,Finished,+1:02.946,10.0,00:01:33.468000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Kevin Magnussen,Haas F1 Team,10,9,2,Finished,+1:04.308,6.0,00:01:32.779000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Lewis Hamilton,Mercedes,15,10,1,Finished,+1:13.948,8.0,00:01:32.997000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Max Verstappen,Red Bull,1,1,25,Finished,1:33:56.736,6.0,00:01:36.236000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Sergio Pérez,Red Bull,2,2,18,Finished,+11.987,7.0,00:01:36.344000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Fernando Alonso,Aston Martin,5,3,15,Finished,+38.637,5.0,00:01:36.156000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Carlos Sainz,Ferrari,4,4,12,Finished,+48.052,14.0,00:01:37.130000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Lewis Hamilton,Mercedes,7,5,10,Finished,+50.977,10.0,00:01:36.546000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Lance Stroll,Aston Martin,8,6,8,Finished,+54.502,9.0,00:01:36.546000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,George Russell,Mercedes,6,7,6,Finished,+55.873,17.0,00:01:37.221000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Valtteri Bottas,Alfa Romeo,12,8,4,Finished,+1:12.647,18.0,00:01:37.379000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Pierre Gasly,Alpine F1 Team,20,9,2,Finished,+1:13.753,2.0,00:01:35.068000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Alexander Albon,Williams,15,10,1,Finished,+1:29.774,15.0,00:01:37.144000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Yuki Tsunoda,AlphaTauri,14,11,0,Finished,+1:30.870,12.0,00:01:36.637000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Logan Sargeant,Williams,16,12,0,Lapped,+1.136,4.0,00:01:36.037000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Kevin Magnussen,Haas F1 Team,17,13,0,Lapped,+16.757,8.0,00:01:36.471000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Nyck de Vries,AlphaTauri,19,14,0,Lapped,+22.523,19.0,00:01:37.709000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Nico Hülkenberg,Haas F1 Team,10,15,0,Lapped,+38.911,11.0,00:01:36.616000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Guanyu Zhou,Alfa Romeo,13,16,0,Lapped,+39.649,1.0,00:01:33.996000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Lando Norris,McLaren,11,17,0,Lapped,+6.636,3.0,00:01:35.822000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Esteban Ocon,Alpine F1 Team,9,18,0,Retired,,13.0,00:01:36.797000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Charles Leclerc,Ferrari,3,19,0,Retired,,16.0,00:01:37.170000
+2023,1,Bahrain Grand Prix,2023-03-05,Bahrain International Circuit,Sakhir,Bahrain,Oscar Piastri,McLaren,18,20,0,Retired,,20.0,00:01:40.691000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Sergio Pérez,Red Bull,1,1,25,Finished,1:21:14.894,2.0,00:01:32.188000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Max Verstappen,Red Bull,15,2,19,Finished,+5.355,1.0,00:01:31.906000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Fernando Alonso,Aston Martin,2,3,15,Finished,+20.728,3.0,00:01:32.240000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,George Russell,Mercedes,3,4,12,Finished,+25.866,4.0,00:01:32.433000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Lewis Hamilton,Mercedes,7,5,10,Finished,+31.065,6.0,00:01:32.941000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Carlos Sainz,Ferrari,4,6,8,Finished,+35.876,5.0,00:01:32.822000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Charles Leclerc,Ferrari,12,7,6,Finished,+43.162,7.0,00:01:33.056000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Esteban Ocon,Alpine F1 Team,6,8,4,Finished,+52.832,8.0,00:01:33.222000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Pierre Gasly,Alpine F1 Team,9,9,2,Finished,+54.747,10.0,00:01:33.392000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Kevin Magnussen,Haas F1 Team,13,10,1,Finished,+1:04.826,9.0,00:01:33.374000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Max Verstappen,Red Bull,1,1,26,Finished,1:31:44.742,1.0,00:01:32.608000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Sergio Pérez,Red Bull,5,2,18,Finished,+22.457,4.0,00:01:34.364000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Carlos Sainz,Ferrari,4,3,15,Finished,+25.110,6.0,00:01:34.507000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Charles Leclerc,Ferrari,2,4,12,Finished,+39.669,2.0,00:01:34.090000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,George Russell,Mercedes,3,5,10,Finished,+46.788,12.0,00:01:35.065000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Lando Norris,McLaren,7,6,8,Finished,+48.458,5.0,00:01:34.476000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Lewis Hamilton,Mercedes,9,7,6,Finished,+50.324,7.0,00:01:34.722000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Oscar Piastri,McLaren,8,8,4,Finished,+56.082,11.0,00:01:34.983000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Fernando Alonso,Aston Martin,6,9,2,Finished,+1:14.887,3.0,00:01:34.199000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Lance Stroll,Aston Martin,12,10,1,Finished,+1:33.216,16.0,00:01:35.632000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Guanyu Zhou,Sauber,17,11,0,Lapped,+6.759,14.0,00:01:35.458000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Kevin Magnussen,Haas F1 Team,15,12,0,Lapped,+8.316,15.0,00:01:35.570000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Daniel Ricciardo,RB F1 Team,14,13,0,Lapped,+8.958,13.0,00:01:35.163000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Yuki Tsunoda,RB F1 Team,11,14,0,Lapped,+9.482,18.0,00:01:35.833000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Alexander Albon,Williams,13,15,0,Lapped,+11.886,17.0,00:01:35.723000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Nico Hülkenberg,Haas F1 Team,10,16,0,Lapped,+17.632,10.0,00:01:34.834000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Esteban Ocon,Alpine F1 Team,19,17,0,Lapped,+31.450,20.0,00:01:36.226000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Pierre Gasly,Alpine F1 Team,20,18,0,Lapped,+32.417,9.0,00:01:34.805000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Valtteri Bottas,Sauber,16,19,0,Lapped,+1:23.230,19.0,00:01:36.202000
+2024,1,Bahrain Grand Prix,2024-03-02,Bahrain International Circuit,Sakhir,Bahrain,Logan Sargeant,Williams,18,20,0,Lapped,+20.795,8.0,00:01:34.735000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Max Verstappen,Red Bull,1,1,25,Finished,1:20:43.273,3.0,00:01:31.773000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Sergio Pérez,Red Bull,3,2,18,Finished,+13.643,8.0,00:01:32.273000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Charles Leclerc,Ferrari,2,3,16,Finished,+18.639,1.0,00:01:31.632000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Oscar Piastri,McLaren,5,4,12,Finished,+32.007,10.0,00:01:32.310000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Fernando Alonso,Aston Martin,4,5,10,Finished,+35.759,13.0,00:01:32.387000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,George Russell,Mercedes,7,6,8,Finished,+39.936,7.0,00:01:32.254000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Oliver Bearman,Ferrari,11,7,6,Finished,+42.679,5.0,00:01:32.186000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Lando Norris,McLaren,6,8,4,Finished,+45.708,4.0,00:01:31.944000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Lewis Hamilton,Mercedes,8,9,2,Finished,+47.391,2.0,00:01:31.746000
+2024,2,Saudi Arabian Grand Prix,2024-03-09,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,Nico Hülkenberg,Haas F1 Team,15,10,1,Finished,+1:16.996,12.0,00:01:32.366000
