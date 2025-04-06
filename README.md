@@ -105,11 +105,16 @@ They are connected using shared keys such as `raceId`, `driverId`, `constructorI
 
 ## 📂 Project Structure
 
-📁 F1-Race-Prediction/ ├── f1_winner_prediction.py # Main training & prediction script
-├── model_optimization_log.csv # Logged model evaluation results
-├── cleaned_data/ # Folder with cleaned CSVs
-│ ├── f1_race_results_2015_2024_cleaned.csv
-│ ├── ... └── README.md
+Project_4_-_F1/
+│
+├── 📁 Output/                      # Model outputs
+│
+├── 📁 Resources/Cleaned/          # Cleaned datasets ready for analysis
+│
+├── 📄 Final_Analysis_Formula_1_Race_Prediction.ipynb  # Main Jupyter notebook with your analysis
+│
+├── 📄 README.md                   # Project description and documentation
+
 
 ---
 
