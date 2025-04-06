@@ -105,15 +105,11 @@ They are connected using shared keys such as `raceId`, `driverId`, `constructorI
 
 ## 📂 Project Structure
 
-Project_4_-_F1/
-│
-├── 📁 Output/                      # Model outputs
-│
-├── 📁 Resources/Cleaned/          # Cleaned datasets ready for analysis
-│
-├── 📄 Final_Analysis_Formula_1_Race_Prediction.ipynb  # Main Jupyter notebook with your analysis
-│
-├── 📄 README.md                   # Project description and documentation
+📁 Project_4_-_F1/
+├── 📁 Output/                 → Model outputs, prediction logs, or images
+├── 📁 Resources/Cleaned/     → Cleaned data used in modeling and Tableau
+├── 📄 Final_Analysis_Formula_1_Race_Prediction.ipynb → Notebook with full pipeline
+├── 📄 README.md              → Project overview and insights
 
 
 ---
