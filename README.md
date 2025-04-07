@@ -83,6 +83,41 @@ It provides a visual storytelling layer to support and validate the machine lear
 
 ---
 
+## 🗃️ SQL Data Model & Relational Schema
+
+To simulate a production-ready data pipeline, we designed and implemented a normalized **PostgreSQL schema** using key Formula 1 datasets. The data was manually imported from cleaned CSVs and structured using relational best practices.
+
+### 🧱 Tables Created
+
+We created the following tables and ensured relational consistency:
+
+- `constructor_standings`
+- `driver_standings`
+- `qualifying_results`
+- `race_results`
+
+Each table includes **primary keys** and is designed to support **relational joins** for cross-table analysis and insights.
+
+📄 **SQL Script Used:**  
+[`SQL Formula 1 analysis.sql`](./SQL/SQL%20Formula%201%20analysis.sql)  
+This file contains all the `CREATE TABLE` statements with correct data types, composite primary keys, and consistent naming conventions aligned with the CSV structure.
+
+---
+
+### 🧩 Entity-Relationship Diagram (ERD)
+
+The following ERD illustrates the structure and relationships between the four core tables:
+
+![QuickDBD_ERD](./SQL/QuickDBD_ERD.jpg)
+
+- Relationships are defined using shared keys: `"Season"`, `"Round"`, `"Driver"`, and `"Constructor"`.
+- Foreign key references align across tables and follow a star-schema logic centered on race-level data.
+
+---
+
+> 💡 While the machine learning model uses pre-cleaned CSVs, this SQL implementation reflects real-world ETL logic and prepares the dataset for future use with tools like **SQLAlchemy** or **Apache Spark**.
+---
+
 ## 📁 Data Sources
 
 Race data was exported from the [Jolpi.ca F1 API](https://jolpi.ca/) for the seasons 2015–2024.  
@@ -105,12 +140,16 @@ They are connected using shared keys such as `raceId`, `driverId`, `constructorI
 
 ## 📂 Project Structure
 
-📁 Project_4_-_F1/
-├── 📁 Output/                 → Model outputs, prediction logs, or images
-├── 📁 Resources/Cleaned/     → Cleaned data used in modeling and Tableau
-├── 📄 Final_Analysis_Formula_1_Race_Prediction.ipynb → Notebook with full pipeline
-├── 📄 README.md              → Project overview and insights
-
+Project_4_-_F1/
+├── 📤 Output/                      → Model outputs, prediction logs, or images  
+├── 🧹 Resources/Cleaned/          → Cleaned data used in modeling and Tableau  
+├── 🗃️ SQL/                        → SQL schema, ERD image, and table creation script  
+│   ├── 📄 SQL Formula 1 analysis.sql      → SQL script with CREATE TABLE statements  
+│   ├── 🖼️ QuickDBD_ERD.jpg               → Visual ERD showing table relationships  
+│   └── 🖼️ ERD_Code.jpg                   → ERD diagram in code format (QuickDBD style)  
+├── 📓 Final_Analysis_Formula_1_Race_Prediction.ipynb  
+│                                   → Main notebook with full modeling pipeline  
+└── 📄 README.md                   → Project overview, methods, and documentation
 
 ---
 
