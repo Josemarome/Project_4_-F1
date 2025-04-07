@@ -138,18 +138,35 @@ They are connected using shared keys such as `raceId`, `driverId`, `constructorI
 
 ---
 
+
+## 📽️ Final Project Presentation
+
+Our capstone project culminated in a group presentation that walked through the entire workflow — from data ingestion and cleaning to SQL modeling, machine learning, and Tableau dashboards.
+
+📄 **Presentation Slides:**  
+[`F1 - Machine Learning.pdf`](./F1%20-%20Machine%20Learning.pdf) – Covers the project summary, ML model results, Tableau visualizations, and SQL schema design.
+
+This presentation serves as the visual storytelling companion to the technical work stored in the repository. It provides a concise explanation of our:
+
+- 📊 Predictive Modeling Approach  
+- 🧮 SQL-Based Relational Schema  
+- 📌 Tableau Insights  
+- ✅ Project Outcomes & Learnings
+---
+
 ## 📂 Project Structure
 
 Project_4_-_F1/
-├── 📤 Output/                      → Model outputs, prediction logs, or images  
-├── 🧹 Resources/Cleaned/          → Cleaned data used in modeling and Tableau  
-├── 🗃️ SQL/                        → SQL schema, ERD image, and table creation script  
-│   ├── 📄 SQL Formula 1 analysis.sql      → SQL script with CREATE TABLE statements  
-│   ├── 🖼️ QuickDBD_ERD.jpg               → Visual ERD showing table relationships  
-│   └── 🖼️ ERD_Code.jpg                   → ERD diagram in code format (QuickDBD style)  
+├── 📤 Output/                          → Model outputs, prediction logs, or images  
+├── 🧹 Resources/Cleaned/              → Cleaned data used in modeling and Tableau  
+├── 🗃️ SQL/                             → SQL schema, ERD image, and table creation script  
+│   ├── 📄 SQL Formula 1 analysis.sql       → SQL script with CREATE TABLE statements  
+│   ├── 🖼️ QuickDBD_ERD.jpg                 → Visual ERD showing table relationships  
+│   └── 🖼️ ERD_Code.jpg                     → ERD diagram in code format (QuickDBD style)  
 ├── 📓 Final_Analysis_Formula_1_Race_Prediction.ipynb  
-│                                   → Main notebook with full modeling pipeline  
-└── 📄 README.md                   → Project overview, methods, and documentation
+│                                       → Main notebook with full modeling pipeline  
+├── 📄 F1 - Machine Learning.pdf        → Final presentation slides  
+└── 📝 README.md                        → Project overview, methods, and documentation
 
 ---
 
@@ -157,4 +174,9 @@ Project_4_-_F1/
 - Add race-specific features (qualifying, constructor, grid position)  
 - Expand with full Jolpi API endpoints (e.g., `/pitstops`, `/qualifying`)  
 - Include visual performance comparison (bar plots, heatmaps)  
-- Try ensemble models (e.g., XGBoost) for benchmarking  
+- Try ensemble models (e.g., XGBoost) for benchmarking
+
+---
+
+This project allowed us to apply a complete data analytics pipeline — from data ingestion and SQL modeling to machine learning and dashboard visualization — strengthening our skills in Python, SQL, and Tableau through a real-world Formula 1 use case. 🏁
+
